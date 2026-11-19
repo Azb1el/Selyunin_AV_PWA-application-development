@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Получение элементов по ID
+    
     const heightElem = document.getElementById('height');
     const weightElem = document.getElementById('weight');
     const outputElem = document.getElementById('output');
